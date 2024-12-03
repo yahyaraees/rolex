@@ -274,7 +274,8 @@ font-size: 40px;
      font-size: 20px;
     }
     .about {
-         padding: 40px 20px;height: auto;
+         padding: 40px 20px;
+         height: auto;
     }
     .about-contact{
         width: 100%;
